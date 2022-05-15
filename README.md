@@ -1,5 +1,5 @@
 # Animal Crossing: Happy Home Designer but poorly translated (working title)
-This is a poor translation of [Animal Crossing: Happy Home Designer](https://en.wikipedia.org/wiki/Animal_Crossing:_Happy_Home_Designer) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
+This is a (Work in progress) poor translation of [Animal Crossing: Happy Home Designer](https://en.wikipedia.org/wiki/Animal_Crossing:_Happy_Home_Designer) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
 # Some questions, and some answers
 
@@ -7,7 +7,7 @@ This is a poor translation of [Animal Crossing: Happy Home Designer](https://en.
 Basically the same idea as [acnl-translated](https://github.com/vilijur/acnl-translated), just for Happy Home Designer.
 
 ### Where's the warning?
-Same warning as [acnl-translated](https://github.com/vilijur/acnl-translated), just for Happy Home Designer. I also cannot be bothered to copy the warning over.
+It's the same warning as [acnl-translated](https://github.com/vilijur/acnl-translated#warning), just for Happy Home Designer. I also cannot be bothered to copy the warning over.
 
 ### So, how much have you done?
 I've made an icon. Impressive?
@@ -20,6 +20,9 @@ Simular to this mod's [New Leaf counterpart](https://github.com/vilijur/acnl-tra
 
 # Credits
 Nothing to credit right now...
+
+# One more thing...
+I'm also working on other poor translations (in my own time) with [Animal Crossing: New Leaf - Welcome amiibo](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
 
 # That's all
 Have a nice day! **:>**
