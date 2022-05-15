@@ -22,7 +22,7 @@ Simular to this mod's [New Leaf counterpart](https://github.com/vilijur/acnl-tra
 Nothing to credit right now...
 
 # One more thing...
-I'm also working on other poor translations (in my own time) with [Animal Crossing: New Leaf - Welcome amiibo](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
+I'm also working on other poor translations (in my own time) with [Animal Crossing: New Leaf](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
 
 # That's all
 Have a nice day! **:>**
