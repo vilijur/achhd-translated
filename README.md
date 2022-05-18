@@ -10,7 +10,7 @@ Basically the same idea as [acnl-translated](https://github.com/vilijur/acnl-tra
 It's the same warning as [acnl-translated](https://github.com/vilijur/acnl-translated#warning), just for Happy Home Designer. I also cannot be bothered to copy the warning over.
 
 ### So, how much have you done?
-I've made an icon. Impressive?
+Done work on the UI, will finish soon.
 
 ### Should I be seeing this?
 You should.
@@ -19,7 +19,10 @@ You should.
 Simular to this mod's [New Leaf counterpart](https://github.com/vilijur/acnl-translated), I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: Happy Home Designer. As of right now, that documentation does not exist. It will be available [here.](https://github.com/vilijur/achhd-translated/wiki)
 
 # Credits
-Nothing to credit right now...
+wooo credits
+ok here we go
+everything - vilijur
+that's it
 
 # One more thing...
 I'm also working on other poor translations (in my own time) with [Animal Crossing: New Leaf](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
