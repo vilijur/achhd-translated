@@ -27,5 +27,7 @@ that's it
 # One more thing...
 I'm also working on other poor translations (in my own time) with [Animal Crossing: New Leaf](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated). You can click on the hyperlinks to be taken to their respective repo, assuming it exists and is not private.
 
+oh and btw the animal crossing series is called `Expensive Transition` now. This game will be called `Expensive Transition: Happy Creators at Home` when it's in a better state then a small amount of the game's text has been changed, or when I can be bothered. Whichever comes first.
+
 # That's all
 Have a nice day! **:>**
