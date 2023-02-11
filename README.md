@@ -10,7 +10,7 @@ Basically the same idea as [acnl-translated](https://github.com/vilijur/acnl-tra
 It's the same warning as [acnl-translated](https://github.com/vilijur/acnl-translated#warning), just for Happy Home Designer. I also cannot be bothered to copy the warning over.
 
 ### So, how much have you done?
-Done work on the UI, will finish soon.
+Done work on the UI, will finish soon. By soon i mean never lololololololololololol
 
 ### Should I be seeing this?
 You should.
