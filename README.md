@@ -2,7 +2,7 @@
 This is a (Work in progress) poor translation of [Animal Crossing: Happy Home Designer](https://en.wikipedia.org/wiki/Animal_Crossing:_Happy_Home_Designer) for the [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS) [console](https://en.wikipedia.org/wiki/Video_game_console). As of now, it's planned to just replace the text, however changing the graphics may be considered.
 
 # **Notice**
-Currently, progress on this mod has been suspended until thurther notice. This also applies to [Animal Crossing: New Leaf](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways)
+Currently, progress on this mod has been suspended until further notice. This also applies to [Animal Crossing: New Leaf](https://github.com/vilijur/acnl-translated) and [Animal Crossing: amiibo Festival](https://github.com/vilijur/acaf-translated) (Amiibo Festival has no progress anyways)
 
 
 # Some questions, and some answers
