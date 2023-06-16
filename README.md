@@ -10,8 +10,8 @@ Currently, progress on this mod has been suspended until further notice. This al
 ### What the hell is this
 Basically the same idea as [acnl-translated](https://github.com/vilijur/acnl-translated), just for Happy Home Designer.
 
-### Where's the warning?
-It's the same warning as [acnl-translated](https://github.com/vilijur/acnl-translated#warning), just for Happy Home Designer. I also cannot be bothered to copy the warning over.
+### Where's the notice?
+It's the same notice as [acnl-translated](https://github.com/vilijur/acnl-translated#warning), just for Happy Home Designer. I also cannot be bothered to copy the notice over. (peak laziness)
 
 ### So, how much have you done?
 Done work on the UI, will finish soon. By soon i mean never lololololololololololol
@@ -20,7 +20,7 @@ Done work on the UI, will finish soon. By soon i mean never lolololololololololo
 You should.
 
 # Documentation
-Simular to this mod's [New Leaf counterpart](https://github.com/vilijur/acnl-translated), I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: Happy Home Designer. As of right now, that documentation does not exist. It will be available [here.](https://github.com/vilijur/achhd-translated/wiki)
+Simular to this mod's [New Leaf counterpart](https://github.com/vilijur/acnl-translated), I do plan to document the prosess so that others can do not just text hacks, but also ROM hacks for Animal Crossing: Happy Home Designer. As of right now, that documentation does not exist. It will be available [here](https://github.com/vilijur/achhd-translated/wiki), and will probably contain things that only apply to HHD.
 
 # Credits
 wooo credits
